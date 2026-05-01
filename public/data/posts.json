@@ -1,0 +1,26 @@
+[  
+  {  
+    "id": 1,  
+    "type": "fact",  
+    "title": "Swami Dayanand Saraswati: Founder of Arya Samaj",  
+    "content": "Swami Dayanand Saraswati (1824-1883) was a legendary social reformer and founder of Arya Samaj. He dedicated his life to promoting the Vedas, social equality, and scientific thinking. His philosophy 'Back to the Vedas' inspired millions to question blind rituals and embrace reason.",  
+    "imageURL": "/darshan-quests/images/swami-dayanand.jpg",  
+    "date": "2026-04-28"  
+  },  
+  {  
+    "id": 2,  
+    "type": "image-only",  
+    "title": "Vedic Wisdom",  
+    "content": "The Vedas are eternal repositories of knowledge, science, and spirituality.",  
+    "imageURL": "/darshan-quests/images/vedas.jpg",  
+    "date": "2026-04-25"  
+  },  
+  {  
+    "id": 3,  
+    "type": "fact",  
+    "title": "The Message of Arya Samaj",  
+    "content": "Arya Samaj promotes social reform through education, women's equality, and scientific rationalism. It believes in 'Universal Brotherhood' and teaches that all individuals, regardless of caste or creed, are equal in the eyes of God and deserve equal opportunities.",  
+    "imageURL": "/darshan-quests/images/arya-samaj.jpg",  
+    "date": "2026-04-20"  
+  }  
+]
